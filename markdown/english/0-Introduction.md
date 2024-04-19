@@ -8,7 +8,7 @@ Doc Version: 1.0.2.0
 |:-----------|:-------------|
 |[@JerryLead](http://weibo.com/jerrylead) | Lijie Xu |
 
-## Introduction
+## Introduction Explanation
 
 This series discusses the design and implementation of Apache Spark, with focuses on its design principles, execution mechanisms, code architecture and performance optimization. In addition, there's some comparisons with Hadoop MapReduce in terms of design and implementation. I'm reluctant to call this document a "code walkthrough" because the goal is not to analyze each piece of code in the project, but to understand the whole system in a systematic way, through the process of a Spark job, from its creation to completion.
 
