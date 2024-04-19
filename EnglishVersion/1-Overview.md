@@ -5,7 +5,7 @@ This chapter aims to answer the following questions:
 **Q1: After a successful deployment, what are the running services in each node?**
 
 **Q2: How is the Spark application created and executed?**
-
+Another commit
 ## Deployment Diagram
 ![deploy](../PNGfigures/deploy.png)
 
